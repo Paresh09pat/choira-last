@@ -67,33 +67,40 @@ h2{
     border-radius: 20px;
 }
 
+.imag11{
+    width:440px;
+    height:265px;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 20px;
+}
 .imag1{
-    width:420px;
-    height:250px;
+    width:440px;
+    height:260px;
     margin-left:20px;
     margin-top:20px;
     border-radius: 20px;
 }
 
 .image2{
-    width:420px;
-    height:250px;
+    width:440px;
+    height:260px;
     margin-left:20px;
     margin-top:20px;
     border-radius: 20px;
 }
 
 .imag3{
-    width:420px;
-    height:250px;
+    width:440px;
+    height:260px;
     margin-left:20px;
     border-radius: 20px;
     margin-top: -25px;
 }
 
 .imag4{
-    width:420px;
-    height:250px;
+    width:440px;
+    height:260px;
     margin-left:20px;
     border-radius: 20px;
     margin-top: -25px;
@@ -119,32 +126,32 @@ h2{
 }
 
 .jam1{
-    width:420px;
-    height:500px;
-    margin-left:20px;
+    width:445px;
+    height:540px;
+    margin-left:15px;
     margin-top:20px;
     border-radius: 20px;
 }
 
 .jam2{
-    width:420px;
-    height:500px;
+    width:445px;
+    height:540px;
     margin-left:20px;
     margin-top:20px;
     border-radius: 20px;
 }
 
 .jamNew{
-    width:420px;
-    height:520px;
+    width:450px;
+    height:530px;
     margin-left:20px;
     margin-top:20px;
     border-radius: 20px;
 }
 
 .jamN4{
-    width:420px;
-    height:250px;
+    width:440px;
+    height:265px;
     margin-left:20px;
     border-radius: 20px;
     margin-top: -100%;
@@ -285,9 +292,8 @@ h2{
 .sideborder{
     border-left: 5px solid yellow;
     position: absolute;
-    margin-left: 190px;
+    margin-left: 200px;
     margin-top: 157px;  
-    /* color: ;  */
 }
 
 .menubar{
